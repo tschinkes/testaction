@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=300&count=3
+    url: https://www.ad-hoc-news.de/rss/nachrichten.xml
 jobs:
   print:
     name: Print
